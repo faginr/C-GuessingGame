@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584482142 source:/home/rex/Desktop/Code/C/C-GuessingGame/GuessingGame/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
